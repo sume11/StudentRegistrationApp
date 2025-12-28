@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/web/index.html</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/com/studentapp/util/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/com/studentapp/model/Student.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/com/studentapp/Servelets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/com/studentapp/Servelets/ShowAllServlet.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/com/studentapp/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/web/register.html</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/com/studentapp/Servelets/TestServlet.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/web/showAll.jsp</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/web/test.jsp</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/src/java/SimpleServlet.java</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/web/testservlet.html</file>
+            <file>file:/C:/Users/Samaung/Documents/NetBeansProjects/Desktop/StudentRegistrationApp/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
